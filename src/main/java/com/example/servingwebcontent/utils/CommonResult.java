@@ -18,3 +18,4 @@ public class CommonResult{
 		this.message = "";
 	}
 }
+/**/

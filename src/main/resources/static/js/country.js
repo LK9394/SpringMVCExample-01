@@ -14,7 +14,7 @@ $(document).ready(function () {
         
         opration = 1;
     });
-
+//  ds sddssdvsfdsfd//
     // when click the update button, show the queryContainer
     $("#selUpdate, #selDelete").on('click', function () {
         // show the queryContainer

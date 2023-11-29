@@ -1,7 +1,7 @@
 package com.example.servingwebcontent.entity;
 
 import jakarta.annotation.Generated;
-
+/**/
 public class CountryEntity {
 
 	@Generated(value = "org.mybatis.generator.api.MyBatisGenerator", date = "2023-11-14T00:52:28.56668+09:00", comments = "Source field: public.country.mstcountrycd")
