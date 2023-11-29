@@ -6,7 +6,7 @@
 <!--     JDBCの設定です (1) -->
         <jdbcConnection
             driverClass="org.postgresql.Driver"
-            connectionURL="jdbc:postgresql://localhost:5432/postgres"
+            connectionURL="jdbc:postgresql://localhost:5433/postgres"
             userId="postgres"
             password="postgres"
         />
